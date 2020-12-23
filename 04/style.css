@@ -1,0 +1,29 @@
+.box1 {
+    background-color: brown;
+    height: 60px;
+    width: 60px;
+
+
+}
+
+.box2{
+
+    background-color: black;
+    height: 60px;
+    width: 60px;
+}
+
+.box3 {
+  background-color: yellow;
+height: 60px;
+width: 60px;
+
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+  
+}
